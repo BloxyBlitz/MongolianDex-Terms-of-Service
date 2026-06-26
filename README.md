@@ -60,7 +60,7 @@ Cross-trading refers to the act of trading MongolianDex collectibles, items, or 
 - Real-world money or financial transactions.
 - Exclusive access to a place.
 - Entrance to events or giveaways.
-- Any item or asset outside of the Empireballs ecosystem.
+- Any item or asset outside of the MongolianDex ecosystem.
 
 Cross-trading is strictly forbidden for any user with no exception and will be severely punished.
 
@@ -95,7 +95,7 @@ The severity of actions taken will be determined by the bot administrators and m
 - The MongolianDex Team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
 
 9. Intellectual Property
-- All collectibles, artwork, bot content, and game mechanics associated with Empireballs remain the property of the Empireballs Team unless otherwise stated so.
+- All collectibles, artwork, bot content, and game mechanics associated with MongolianDex remain the property of the MongolianDex Team unless otherwise stated so.
 - Users may not copy, redistribute, or commercially exploit MongolianDex content without permission.
 
 10. Availability
@@ -111,7 +111,7 @@ By using MongolianDex, you agree to abide by these terms and rules. Failure to c
 
 Contesting a sanction
 
-If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jaKa3SUqUF (#⁠tickets channel) or sending an email to contact to empireballsreboot@gmail.com. You must follow these rules:
+If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jaKa3SUqUF (#⁠tickets channel) or sending an email to contact to MongolianDex@gmail.com. You must follow these rules:
 
 - Do not send an appeal twice
 - Do not send an appeal for someone else, only the concerned user may do so
@@ -124,7 +124,7 @@ Contact
 
 You may contact us using the following means:
 
-- The Empireballs Discord Server https://discord.gg/jaKa3SUqUF through tickets (#tickets channel)
+- The MongolianDex Discord Server https://discord.gg/jaKa3SUqUF through tickets (#tickets channel)
 - Sending mail to mongoliandex@gmail.com
 
 ----
