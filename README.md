@@ -41,7 +41,7 @@ User Behaviour
 4. Trading Guidelines:
 
 Finality of Trades and Donations
-- All trades (`/trade`) and donations (`/empires give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
+- All trades (`/trade`) and donations (`/mongols give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
     
 Built-in Trade Safeguards
 - The trading system includes a lock and confirm mechanism, along with a timer, to ensure all parties have adequate time to review and verify the details of the trade. Users are responsible for double-checking all trade details before confirming.
