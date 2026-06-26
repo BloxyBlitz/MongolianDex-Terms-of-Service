@@ -41,7 +41,7 @@ User Behaviour
 4. Trading Guidelines:
 
 Finality of Trades and Donations
-- All trades (`/trade`) and donations (`/mongols give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
+- All trades (`/trade`) and donations (`/mongols give`) are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
     
 Built-in Trade Safeguards
 - The trading system includes a lock and confirm mechanism, along with a timer, to ensure all parties have adequate time to review and verify the details of the trade. Users are responsible for double-checking all trade details before confirming.
@@ -89,13 +89,13 @@ Discretion of Enforcement
 The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 
 7. Changes to Terms and Rules:
-- The terms of service and rules might be updated at any time. Users will be notified of changes through the Discord server: https://discord.gg/jaKa3SUqUF 's announcements channels, and continued use of the bot will imply agreement to the modified terms.
+- The terms of service and rules might be updated at any time. Users will be notified of changes through the announcements channels on the Discord server: https://discord.gg/jaKa3SUqUF. Continued use of the bot will imply agreement to the modified terms.
 
 8. Liability:
 - The MongolianDex Team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
 
 9. Intellectual Property
-- All collectibles, artwork, bot content, and game mechanics associated with MongolianDex remain the property of the MongolianDex Team unless otherwise stated so.
+- All collectibles, artwork, bot content, and game mechanics associated with MongolianDex remain the property of the MongolianDex Team unless otherwise stated.
 - Users may not copy, redistribute, or commercially exploit MongolianDex content without permission.
 
 10. Availability
@@ -111,7 +111,7 @@ By using MongolianDex, you agree to abide by these terms and rules. Failure to c
 
 Contesting a sanction
 
-If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jaKa3SUqUF (#⁠tickets channel) or sending an email to contact to MongolianDex@gmail.com. You must follow these rules:
+If you want a re-evaluation of your case, you may do so by submitting a ticket in the Discord server: https://discord.gg/jaKa3SUqUF (#⁠tickets channel) or contacting us at mongoliandex@gmail.com. You must follow these rules:
 
 - Do not send an appeal twice
 - Do not send an appeal for someone else, only the concerned user may do so
